@@ -1,0 +1,1 @@
+web: node ./mad.js
